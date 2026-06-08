@@ -37,11 +37,7 @@ Supported platforms:
 
 ## Screenshots
 
-Add screenshots here.
-
-```md
-<img width="797" height="475" alt="4873473478437478374834783dhfduyhfduyhfduyfhdf" src="https://github.com/user-attachments/assets/9eeb62c8-08d9-45d2-b7ce-978b25bcc9e6" />
-```
+https://github.com/Windowscheater-Toolz/Gtag-Decompiler
 
 ## Building
 
