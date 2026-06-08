@@ -1,12 +1,4 @@
-[![Release](https://img.shields.io/github/v/release/Windowcheater-Tools/CDecompiler)](https://github.com/Windowcheater-Tools/CDecompiler/releases)
 
-[![Downloads](https://img.shields.io/github/downloads/Windowcheater-Tools/CDecompiler/total)](https://github.com/Windowcheater-Tools/CDecompiler/releases)
-
-[![Stars](https://img.shields.io/github/stars/Windowcheater-Tools/CDecompiler)](https://github.com/Windowcheater-Tools/CDecompiler/stargazers)
-
-[![Issues](https://img.shields.io/github/issues/Windowcheater-Tools/CDecompiler)](https://github.com/Windowcheater-Tools/CDecompiler/issues)
-
-[![License](https://img.shields.io/github/license/Windowcheater-Tools/CDecompiler)](https://github.com/Windowcheater-Tools/CDecompiler/blob/main/LICENSE)
 # Gtag Decompiler
 
 A simple and fast .NET decompiler built for quickly viewing and exporting source code from assemblies.
