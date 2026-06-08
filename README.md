@@ -1,2 +1,5 @@
-# C-Decompiler
-This is a C# decompiler made for gorilla tag mod menus.
+![Version](https://img.shields.io/github/v/release/USERNAME/VDecompiler)
+![Downloads](https://img.shields.io/github/downloads/USERNAME/VDecompiler/total)
+![Stars](https://img.shields.io/github/stars/USERNAME/VDecompiler)
+![Issues](https://img.shields.io/github/issues/USERNAME/VDecompiler)
+![License](https://img.shields.io/github/license/USERNAME/VDecompiler)
