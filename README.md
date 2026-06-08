@@ -40,7 +40,7 @@ Supported platforms:
 Add screenshots here.
 
 ```md
-![Main Window](images/main.png)
+<img width="797" height="475" alt="4873473478437478374834783dhfduyhfduyhfduyfhdf" src="https://github.com/user-attachments/assets/9eeb62c8-08d9-45d2-b7ce-978b25bcc9e6" />
 ```
 
 ## Building
