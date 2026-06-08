@@ -26,10 +26,6 @@ Lightweight .NET decompiler built for quickly browsing and exporting source code
 
 Exported files are automatically organized by namespace.
 
-## Screenshot
-
-![Decompiler Preview](https://github.com/user-attachments/assets/3955a74e-4aaa-4032-a536-a8b0960a8f3a)
-
 ## Installation
 
 Download the latest release from the Releases page.
