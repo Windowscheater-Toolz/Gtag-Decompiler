@@ -1,53 +1,55 @@
-
 # Gtag Decompiler
 
-A simple and fast .NET decompiler built for quickly viewing and exporting source code from assemblies.
+Lightweight .NET decompiler for quickly viewing, browsing, and exporting source code from managed assemblies.
+
+![Stars](https://img.shields.io/github/stars/Windowcheater-Tools/CDecompiler)
+![License](https://img.shields.io/github/license/Windowcheater-Tools/CDecompiler)
+![Issues](https://img.shields.io/github/issues/Windowcheater-Tools/CDecompiler)
 
 ## Features
 
-- Open DLL Files
-- Browse namespaces, classes, and methods
-- Export decompiled source code
-- Automatic folder organization
-- Fast loading and exporting
-- Standalone executable
-- Dark, clean interface
+* Open and inspect .NET DLLs
+* Browse namespaces, classes, methods, and fields
+* Export decompiled C# source
+* Automatic namespace-based folder structure
+* Fast assembly loading
+* Standalone executable
+* Simple dark-themed interface
 
-## How It Works
+## Usage
 
- Decompiler loads a .NET assembly, reads its metadata, and reconstructs readable C# code.
+1. Open a .NET assembly (.dll)
+2. Wait for the assembly to load
+3. Browse the available types and members
+4. Export the generated source code
 
-1. Open a DLL
-2. Let the assembly load
-3. Browse the contents
-4. Export the generated source
+Exported files are automatically organized by namespace.
 
-The exported files are automatically sorted into folders based on their namespaces.
+## Screenshots
+
+<img width="797" alt="Decompiler Preview" src="https://github.com/user-attachments/assets/3955a74e-4aaa-4032-a536-a8b0960a8f3a" />
 
 ## Installation
 
 Download the latest release from the Releases page.
 
-The standalone version does not require a separate .NET installation.
+### Supported Operating Systems
 
-Supported platforms:
+* Windows 10
+* Windows 11
 
-- Windows 10
-- Windows 11
-
-## Screenshots
-
-<img width="797" height="475" alt="4873473478437478374834783dhfduyhfduyhfduyfhdf" src="https://github.com/user-attachments/assets/3955a74e-4aaa-4032-a536-a8b0960a8f3a" />
+No additional installation is required for the standalone build.
 
 ## Building
 
 Clone the repository:
 
 ```bash
-git clone https://github.com/USERNAME/VDecompiler.git
+git clone https://github.com/USERNAME/GtagDecompiler.git
+cd GtagDecompiler
 ```
 
-Build using:
+Build:
 
 ```bash
 dotnet build -c Release
@@ -59,16 +61,14 @@ Publish:
 dotnet publish -c Release
 ```
 
-## Why I Made This
+## Why?
 
-Most decompilers either felt bloated or had interfaces that were difficult to navigate. Decompiler was made to provide a cleaner experience while keeping everything fast and straightforward.
+Most decompilers are packed with features many people never use. Gtag Decompiler focuses on the basics: opening assemblies, viewing code, and exporting source as quickly as possible.
 
 ## Contributing
 
-Pull requests are welcome.
-
-If you find a bug or have a suggestion, open an issue.
+Issues, suggestions, and pull requests are welcome.
 
 ## License
 
-MIT License
+Released under the MIT License.
