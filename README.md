@@ -1,4 +1,4 @@
-# Decompiler
+# C# Decompiler
 
 GTag Decompiler is a small Windows tool for pulling readable source from managed assemblies. No solution to set up, no plugin maze — open the exe, queue your DLLs, hit Export, and you get a folder of `.cs` files (plus a zip) laid out by namespace.
 
